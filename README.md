@@ -232,6 +232,6 @@ completed rooms ÷ total rooms × 100
 * `progressbar.css` — Styling for the progress bar
 * `progress.json` — Stores the current progress data
 
-`## License`
+<!-- `## License`
 
-`[Add your license here]`
+`[Add your license here]` -->
