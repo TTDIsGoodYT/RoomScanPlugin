@@ -66,7 +66,7 @@ If you close it, the Roblox plugin will not be able to send the progress data to
 
 1. Open `RoomsProgress.lua`.
 2. Find the total number of rooms.
-3. Change it to the total number of rooms in your game.
+3. Change it to the total number of numbered rooms in your game.
 
 For example:
 
