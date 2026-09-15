@@ -229,9 +229,7 @@ completed rooms ÷ total rooms × 100
 * `RoomsProgress.lua` — Roblox Studio room scanner plugin
 * `ProgressServer.py` — Local server that receives and uploads progress
 * `progress.js` — Updates the website's progress text and bar
-* `progressbar.css` — Styling for the progress bar
-* `progress.json` — Stores the current progress data
 
-<!-- `## License`
+<!-- ## License
 
-`[Add your license here]` -->
+[Add your license here] -->
