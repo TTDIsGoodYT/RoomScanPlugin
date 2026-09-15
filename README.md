@@ -173,6 +173,8 @@ Also make sure your CSS does **not** force the width with:
 width: 4% !important;
 ```
 
+I made that mistake.
+
 The JavaScript needs to control the width.
 
 ### The website says "Progress unavailable"
