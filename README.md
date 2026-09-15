@@ -108,8 +108,6 @@ The plugin will scan your game for room signs and send the progress to the Pytho
 <script src="/progress.js"></script>
 ```
 
-5. Upload `progressbar.css` if you are using the included progress bar styling.
-
 ## What this adds
 
 * A **Scan Rooms** button in the Roblox Studio Plugins tab
